@@ -8,5 +8,4 @@ One-key to set up an Efficient Vim Coding Environment.(Pathogen,NERDTree,MiniBuf
 ```BASH
 bash vim_config_sh
 ```
-
 3. ENJOY it !
