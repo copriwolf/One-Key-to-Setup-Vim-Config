@@ -10,9 +10,9 @@ Apps:
 
 # How to use
 
-1. Just `cd` into the directory which you clone.
-2. RUN:
-    ```BASH
+1.Just `cd` into the directory which you clone.
+2.RUN:
+```BASH
     bash vim_config_sh
-    ```
-3. ENJOY IT !
+```
+3.ENJOY IT !
