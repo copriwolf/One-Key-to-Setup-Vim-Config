@@ -15,7 +15,7 @@ Apps:
 
 2.RUN:
 ```BASH
-    bash vim_config_sh
+    bash vim_config.sh
 ```
 
 3.ENJOY IT !
