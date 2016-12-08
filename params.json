@@ -1,0 +1,6 @@
+{
+  "name": "One-key-to-setup-vim-config",
+  "tagline": "One-key to set up an Efficient Vim Coding Environment.(Pathogen,NERDTree,MiniBufExplorer,Vim-powerline,Vim-markdown)",
+  "body": "# Intro\r\n\r\nOne-key to set up an Efficient Vim Coding Environment.\r\n\r\nApps:\r\n- Pathogen\r\n- NERDTree\r\n- MiniBufExplorer\r\n- Vim-powerline\r\n- Vim-markdown\r\n\r\n# How to use\r\n\r\n1.Just `cd` into the directory which you clone.\r\n\r\n2.RUN:\r\n```BASH\r\n    bash vim_config.sh\r\n```\r\n\r\n3.ENJOY IT !\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
